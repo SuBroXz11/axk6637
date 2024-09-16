@@ -1,0 +1,15 @@
+1. Statement execution is linear unless altered
+	the order of statement execution is called the FLOW OF CONTROL
+
+2. java conditionals  sometimes called selection statements  :- if    if-else    switch 
+	the condition must be a boolean
+	e.g if(total==sum)
+		System.out........
+
+3. logical not is an unary operator which is also called logical negation or logical complement
+
+4. All logical operators have lower precedence than the relational operators,
+Logical NOT has higher precedence than logical AND and logical OR
+
+5.  
+

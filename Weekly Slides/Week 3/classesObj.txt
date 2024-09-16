@@ -1,0 +1,23 @@
+1. System can be broken down to classes and classes can be reused and contains objects
+think classes as designs and object as artifacts made in that design
+
+2. Object is an instance of particular class and Creating an object is called INSTANTIATION
+
+3. A primitive variable contains the value itself, but an object variable contains the address of the object
+
+4. Two or more references that refer to the same object are called ALIASES of each other
+Changing an object through one reference changes it for all of its aliases, because there is really only one object
+
+5. Java performs automatic garbage collection periodically, returning an object's memory to the system for future use
+In other languages, the programmer is responsible for performing garbage collection
+
+6. we say that an object of the String class is immutable.. but with many method it can be manipulated version of the orginal
+
+7. A class library is a collection of classes that we can use when developing programs
+The Java standard class library is part of any Java development environment
+
+
+
+
+
+

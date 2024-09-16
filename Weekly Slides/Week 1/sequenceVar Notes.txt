@@ -1,0 +1,68 @@
+1. computer programming follow three rules:
+sequence, selection(if/else), iteration(loops)  => SSI
+
+2. first specify the value: int value;   then value=10;  {storing later}
+
+3. In sequence you cannot set the variable value and then define it you will get 
+"syntax error - undefined variable" as variable is a name for location in memory
+
+4. multiple variable can be created in one declaration i.e 
+int count, temp, result;
+
+5. value assign is possible to only variable's declared type
+
+6. height + weight is known as an expression
+
+7. string of characterrs can be represented as a string literal by "" around it
+
+8. Every character string is an object in Java, defined by the string class
+
+9. System.out object represents a destination i.e monitor to send output
+
+10. + string concatenation operator is used to append one string to end of another
+      It can also append number  i.e if one is string and other is number.. string concatenation is done
+
+11. A string literal cannot be broken across two lines in a program
+
+12. An escape sequence is a series of characters that represents a special character begins with \
+      \b => backspace
+      \r => carriage return
+
+13. We use final modifier in Java to declare a constant
+	final int subrat = 1;
+
+14. Java has 8 primitive data types....
+	4 int : byte short int and long
+	2 point: float and double
+	1 character : char
+	1 boolean : boolean...  { DONT GET CONFUSED WITH THE BOOL}
+
+15. byte : 8 bit          min: -128      max: 127  {min max are the values}                   
+      short: 16 bit       
+      int: 32 bits          float: 32 bits
+      long: 64 bits       double: 64 bits
+
+16. An expression is a combination of one or more operators and operands
+
+17. int / int is int
+
+18. method for reading input values is Scanner class
+      scanner object can be set up to read input from even user typing keyboard
+
+19. Keyboard input is represented by the System.in object i.e
+	Scanner scan = new Scanner(System.in);
+      here the NEW operator creates the Scanner object
+      scan.nextLine() can be used as one of the various types of methods
+      here the nextLine methid reads all of the input until the end of the line found
+
+20. Scanner class is the part of java.util class libraby hat should be imported first
+
+21. Unless specified otherwise, white space is used to separate the elements (called tokens) of the input
+
+22. White space includes space characters, tabs, new line characters
+	The next method of the Scanner class reads the next input token and returns it as a string
+	Methods such as nextInt and nextDouble read data of particular types
+
+
+
+

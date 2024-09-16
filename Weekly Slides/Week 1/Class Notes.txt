@@ -1,0 +1,10 @@
+1. If we make "String"; randomly in the program.. It's called an object;
+
+2. final key word is used to make constants.
+	e.g final int hello = 22;
+
+3. Scanner class is in util.java.
+
+4. all the things we are using such as public static main etc all are in java.lang* package.
+
+5. It is good to make different scanner class for the string and numeric.
